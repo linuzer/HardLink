@@ -25,3 +25,6 @@ Optionen:
                     Quellverzeichnissen identisch sind, werden sie verlinkt, 
                     ansonsten wird eine neue Kopie angelegt.
 -l --logfile        Logdatei mit vollst‰ndigem Pfad.
+
+# HardLink Backup
+Um basierend auf diesem Tool ein einfaches, aber robustes Datei-Backup durchzuführen, siehe https://github.com/linuzer/HardlinkBackup
